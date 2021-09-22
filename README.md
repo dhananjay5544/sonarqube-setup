@@ -1,12 +1,12 @@
 # Sonarqube setup (local)
 
-### prerequisites:
+### Prerequisites:
 
 - Linux or MacOS
 - docker
 - sonar-sanner
 
-1. sonar-scanner installation.
+1. Sonar-scanner installation.
 
     ```bash
     # change permission to execute script.
@@ -17,7 +17,7 @@
     ```
 
 2. Setting up the sonar server.
-    - modify vm settings.
+    - modify system settings.
 
         ```bash
         sudo sysctl -w vm.max_map_count=524288
