@@ -6,6 +6,8 @@
 - docker
 - sonar-sanner
 
+### Setup
+
 1. Sonar-scanner installation.
 
     ```bash
@@ -33,9 +35,10 @@
 3. Go to http://localhost:9000 to access sonarqube server.
 
 
-### references: 
+### References: 
 -   [official docs](https://docs.sonarqube.org/latest/)
 -   [dockerhub](https://hub.docker.com/_/sonarqube)
  
 ### Author
-Dhananjay Shinde [LinkedIn]("www.linkedin.com/in/dhananjay-shinde-🇮🇳-a5a763168")
+#### Dhananjay Shinde [LinkedIn]("www.linkedin.com/in/dhananjay-shinde-🇮🇳-a5a763168")
+If you find this useful, do share🚀 & don't forget to follow me.
