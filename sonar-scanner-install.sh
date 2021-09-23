@@ -4,6 +4,7 @@ echo "downloading binary...."
 wget https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.6.2.2472-linux.zip
 
 echo "extracting..."
+sudo apt-get install unzip -y
 unzip sonar-scanner-cli-4.6.2.2472-linux.zip
 rm sonar-scanner-cli-4.6.2.2472-linux.zip
 

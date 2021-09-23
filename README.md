@@ -15,7 +15,7 @@
     chmod +x sonar-scanner-install.sh
 
     # run script to install.
-    ./sonar-scanner-install.sh
+    sudo ./sonar-scanner-install.sh
     ```
 
 2. Setting up the sonar server.
